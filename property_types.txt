@@ -1,0 +1,41 @@
+Condominium
+Apartment
+Walk-up
+Cluster House
+Executive Condominium
+Detached House
+Semi-Detached House
+Corner Terrace
+Bungalow House
+Good Class Bungalow
+Shophouse
+Land Only
+Town House
+Conservation House
+Cluster House
+HDB Flat
+1-Room / Studio
+2A
+2I (Improved)
+2S (Standard)
+3A
+3NG (New Generation)
+3A (Modified)
+3NG (Modified)
+3I (Improved)
+3I (Modified)
+3S (Simplified)
+3STD (Standard)
+4A
+4NG (New Generation)
+4S (Simplified)
+4I (Improved)
+4STD (Standard)
+5A
+5I
+5S
+Jumbo
+EA (Exec Apartment)
+EM (Exec Maisonette)
+MG (Multi-Generation)
+Terrace
